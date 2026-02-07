@@ -1,1 +1,1 @@
-<p><img alt="Icone" title="Icone que gosto" src="https://64.media.tumblr.com/cf6c46db14d88f72771d137f9e2d6d7f/tumblr_msctj9QOyp1r2x9k2o1_500.gif" /></p>
+<p><img alt="Icone" title="Linus" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBnajVzcWJoMDk3NGVzMm44amNpcGhqYjR6Ymt5YTI4ZWt1a3BmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" /></p>
