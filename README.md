@@ -1,1 +1,1 @@
-<p><img alt="Icone" title="Linus" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG12eGdwaXJlZnh5MG45a2Iwb3U5OWczeTNxcW8zZ2RhNXBmOGMwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NXD7ng3f7n9Qvry08G/giphy.gif" /></p>
+<p><img alt="Icone" title="Cat" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVsM2YwemUyaW9iYzRheTFwaTM3eWpiajU2ZHd5YmozazBwaDMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W1hd3uXRIbddu/giphy.gif" /></p>
